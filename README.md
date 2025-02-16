@@ -7,4 +7,4 @@ Skills learned at the end of this section:
 -basic HTML
 
 Iteration 1: Completed main task - Create home page and recipe page
-TBC: Adding multiple recipes 
+Iteration 2: Completed bonus task - finished all recipes
